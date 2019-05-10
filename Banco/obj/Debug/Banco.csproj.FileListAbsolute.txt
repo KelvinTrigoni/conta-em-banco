@@ -1,0 +1,11 @@
+c:\users\celso\documents\visual studio 2015\Projects\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Celso\Desktop\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Celso\Desktop\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Celso\Desktop\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Celso\Desktop\Banco\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Celso\Desktop\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Celso\Desktop\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Celso\Desktop\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Celso\Desktop\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Celso\Desktop\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Celso\Desktop\Banco\Banco\obj\Debug\Banco.pdb
